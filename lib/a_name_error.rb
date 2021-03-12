@@ -1,3 +1,3 @@
 puts "hello world"
 
-irb hello_world
+hello_world
